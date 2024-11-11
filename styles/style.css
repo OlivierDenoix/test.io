@@ -15,6 +15,9 @@ p, li {
   letter-spacing: 1px;
 }
 
+.test-li{
+  color: blueviolet;
+}
 
 html {
   background-color: #575757;
