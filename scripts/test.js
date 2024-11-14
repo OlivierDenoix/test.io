@@ -1,4 +1,4 @@
 let foo = document.getElementById('titre-01');
-foo.textContent = 'Un autre titre';
+foo.textContent = 'Le titre';
 // alert('test');
-console.log('coucou');
+// console.log('coucou');
